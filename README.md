@@ -26,7 +26,6 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Front-end**
@@ -50,11 +49,6 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 > Análise de dados com Python e Jupyter Notebook para avaliação de perfil de crédito.  
 > `Python` · `Pandas` · `Jupyter Notebook` · `Data Analysis`
 
----
-
-### 🏢 [ERP Simples](https://github.com/Lucasscheere/erpsimples)
-> Sistema ERP básico desenvolvido em C# para gerenciamento de processos empresariais.  
-> `C#` · `.NET` · `Backend` · `ERP`
 
 ---
 
