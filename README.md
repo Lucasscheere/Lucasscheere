@@ -78,9 +78,9 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 
 ## 🎯 Atualmente
 
-- 📚 Aprofundando conhecimentos em **Spring Boot + Kotlin** e **React**
+- 📚 Aprofundando conhecimentos em **Spring Boot + Kotlin** e **React+ Next**
 - 🔨 Construindo projetos Full Stack para portfólio
-- 🤝 Aberto a **oportunidades de estágio ou emprego júnior** em desenvolvimento Full Stack
+- 🤝 Aberto a **oportunidades de emprego júnior** em desenvolvimento Full Stack
 - 💬 Me pergunte sobre: Java, Kotlin, Spring Boot, Python, SQL
 
 ---
