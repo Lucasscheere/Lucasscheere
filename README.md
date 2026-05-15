@@ -27,7 +27,6 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker]([https://img.shields.io/badge/Docker-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Front-end**
 
@@ -40,6 +39,7 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://shields.io)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
