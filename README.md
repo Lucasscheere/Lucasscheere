@@ -56,7 +56,7 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 ---
 
 ### 🔧 [CRUD Spring Boot + Kotlin](https://github.com/Lucasscheere/crud_simples_springboot_kotlin)
-> API RESTful com operações CRUD completas usando Spring Boot e Kotlin — base sólida de back-end.  
+> API RESTful com operações CRUD completas usando Spring Boot e Kotlin.  
 > `Kotlin` · `Spring Boot` · `REST API` · `Back-end`
 
 ---
@@ -67,24 +67,12 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasscheere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasscheere&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Atualmente
 
 - 📚 Aprofundando conhecimentos em **Spring Boot + Kotlin** e **React+ Next**
 - 🔨 Construindo projetos Full Stack para portfólio
 - 🤝 Aberto a **oportunidades de emprego júnior** em desenvolvimento Full Stack
-- 💬 Me pergunte sobre: Java, Kotlin, Spring Boot, Python, SQL
+- 💬 Me pergunte sobre: Java, Kotlin, Spring Boot, Python
 
 ---
 
@@ -93,9 +81,3 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 Estou disponível para oportunidades, parcerias e trocas de conhecimento!
 
 [![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-scheere/)
-
----
-
-<div align="center">
-  <sub>⭐ Se algum projeto foi útil pra você, deixa uma estrela! Significa muito.</sub>
-</div>
