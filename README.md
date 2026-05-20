@@ -53,6 +53,8 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 > 🚧 Projeto em desenvolvimento — funcionalidades e estrutura podem mudar frequentemente.
 > `Kotlin`, `Spring Boot`, `React`, `Full Stack`
 
+---
+
 ### 💳 [Análise de Crédito](https://github.com/Lucasscheere/analise_de_credito)
 > Análise de dados com Python e Jupyter Notebook para avaliação de perfil de crédito.  
 > `Python` · `Pandas` · `Jupyter Notebook` · `Data Analysis`
