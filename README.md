@@ -49,7 +49,7 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 ## 📂 Projetos em Destaque
 
 ### 📂 [Sistema de cobranças](https://github.com/Lucasscheere/cobranca)
-> Sistema de cobrança e gerenciamento financeiro desenvolvido com foco em organização, automação e usabilidade.
+> Sistema de cobrança e gerenciamento financeiro desenvolvido com foco em organização, automação e usabilidade. 🚧 Projeto em desenvolvimento — funcionalidades e estrutura podem mudar frequentemente.  
 > `Kotlin` · `Spring Boot` · `React` · `Full Stack`
 
 ---
