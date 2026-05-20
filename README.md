@@ -49,8 +49,7 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 ## 📂 Projetos em Destaque
 
 ### 📂 [Sistema de cobranças](https://github.com/Lucasscheere/cobranca)
-> Sistema de cobrança e gerenciamento financeiro desenvolvido com foco em organização, automação e usabilidade.
-> 🚧 Projeto em desenvolvimento — funcionalidades e estrutura podem mudar frequentemente.
+> Sistema de cobrança e gerenciamento financeiro desenvolvido com foco em organização, automação e usabilidade. 🚧 Projeto em desenvolvimento — funcionalidades e estrutura podem mudar frequentemente.
 > `Kotlin`, `Spring Boot`, `React`, `Full Stack`
 
 ---
@@ -58,7 +57,6 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 ### 💳 [Análise de Crédito](https://github.com/Lucasscheere/analise_de_credito)
 > Análise de dados com Python e Jupyter Notebook para avaliação de perfil de crédito.  
 > `Python` · `Pandas` · `Jupyter Notebook` · `Data Analysis`
-
 
 ---
 
