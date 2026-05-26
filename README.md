@@ -57,7 +57,7 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 
 ### 💳 [Análise de Crédito](https://github.com/Lucasscheere/analise_de_credito)
 > Análise de dados com Python e Jupyter Notebook para avaliação de perfil de crédito.  
-> `Python` · `Pandas` · `Jupyter Notebook` · `Data Analysis`
+> `Python` · `Pandas` · `Jupyter Notebook` · `Data Analysis` · `Plotly`
 
 ---
 
