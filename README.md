@@ -71,6 +71,12 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 > Recriação da interface do Instagram com foco em estrutura e estilização.  
 > `Flutter` · `Front-end` · `UI Clone`
 
+
+### [Monitor de Recursos do Sistema](https://github.com/Lucasscheere/sysmon_app)
+> Monitor de recursos em tempo real para Linux desktop e Android, construído com Flutter e Go.
+> `Flutter` · `Go`  `Desktop App`
+
+
 ---
 
 ## 🎯 Atualmente
