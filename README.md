@@ -73,7 +73,7 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 
 
 ### [Monitor de Recursos do Sistema](https://github.com/Lucasscheere/sysmon_app)
-> Monitor de recursos em tempo real para Linux desktop e Android, construído com Flutter e Go.
+> Monitor de recursos em tempo real para Linux desktop e Android, construído com Flutter e Go.  
 > `Flutter` · `Go`  `Desktop App`
 
 
