@@ -61,12 +61,6 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 
 ---
 
-### 🔧 [CRUD Spring Boot + Kotlin](https://github.com/Lucasscheere/crud_simples_springboot_kotlin)
-> API RESTful com operações CRUD completas usando Spring Boot e Kotlin.  
-> `Kotlin` · `Spring Boot` · `REST API` · `Back-end`
-
----
-
 ### 📷 [Clone Instagram](https://github.com/Lucasscheere/clone_instagram)
 > Recriação da interface do Instagram com foco em estrutura e estilização.  
 > `Flutter` · `Front-end` · `UI Clone`
