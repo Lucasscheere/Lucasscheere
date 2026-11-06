@@ -61,7 +61,7 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 ---
 
 ###  [News Magazine](https://github.com/Lucasscheere/newsmagazine)
-> Jornal/portal editorial com artigos gerenciados no Strapi (CMS headless) e exibidos por um frontend Next.js.  
+> Jornal/portal editorial com artigos gerenciados no Strapi (CMS headless) e exibidos por um frontend Next.js.  🚧 Projeto em desenvolvimento — funcionalidades e estrutura podem mudar frequentemente.
 > `React` · `Front-end` · `Next`, `Typescript`
 
 ---
