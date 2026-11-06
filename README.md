@@ -26,7 +26,6 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Front-end**
 
@@ -47,43 +46,43 @@ Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo proj
 
 ---
 
-## 📂 Projetos em Destaque
+##  Projetos em Destaque
 
-### 📂 [Sistema de cobranças](https://github.com/Lucasscheere/cobranca)
+###  [Sistema de cobranças](https://github.com/Lucasscheere/cobranca)
 > Sistema de cobrança e gerenciamento financeiro desenvolvido com foco em organização, automação e usabilidade. 🚧 Projeto em desenvolvimento — funcionalidades e estrutura podem mudar frequentemente.  
 > `Kotlin` · `Spring Boot` · `React` · `Full Stack`
 
 ---
 
-### 💳 [Análise de Crédito](https://github.com/Lucasscheere/analise_de_credito)
+###  [Análise de Crédito](https://github.com/Lucasscheere/analise_de_credito)
 > Análise de dados com Python e Jupyter Notebook para avaliação de perfil de crédito.  
 > `Python` · `Pandas` · `Jupyter Notebook` · `Data Analysis` · `Plotly`
 
 ---
 
-### 📷 [Clone Instagram](https://github.com/Lucasscheere/clone_instagram)
-> Recriação da interface do Instagram com foco em estrutura e estilização.  
-> `Flutter` · `Front-end` · `UI Clone`
+###  [News Magazine](https://github.com/Lucasscheere/newsmagazine)
+> Jornal/portal editorial com artigos gerenciados no Strapi (CMS headless) e exibidos por um frontend Next.js.  
+> `React` · `Front-end` · `Next`, `Typescript`
 
 ---
 
-### ⚙️ [Monitor de Recursos do Sistema](https://github.com/Lucasscheere/sysmon_app)
+###  [Monitor de Recursos do Sistema](https://github.com/Lucasscheere/sysmon_app)
 > Monitor de recursos em tempo real para Linux desktop e Android, construído com Flutter e Go.  
 > `Flutter` · `Go`  `Desktop App`
 
 
 ---
 
-## 🎯 Atualmente
+##  Atualmente
 
-- 📚 Aprofundando conhecimentos em **Spring Boot + Kotlin** e **React+ Next**
-- 🔨 Construindo projetos Full Stack para portfólio
-- 🤝 Aberto a **oportunidades de emprego júnior** em desenvolvimento Full Stack
-- 💬 Me pergunte sobre: Java, Kotlin, Spring Boot, Python
+-  Aprofundando conhecimentos em **Spring Boot + Kotlin** e **React+ Next**
+-  Construindo projetos Full Stack para portfólio
+-  Aberto a **oportunidades de emprego júnior** em desenvolvimento Full Stack
+-  Me pergunte sobre: Java, Kotlin, Spring Boot, Flutter
 
 ---
 
-## 📫 Vamos conversar?
+##  Vamos conversar?
 
 Estou disponível para oportunidades, parcerias e trocas de conhecimento!
 
